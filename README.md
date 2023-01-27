@@ -2,7 +2,7 @@
 ## This repo helps to convert SMILES string to a 3D structure such as SDF, PDB. 
 
 You can obatin a SMILES from online database, or from chemdraw, for example ```c1ccccc1``` is the smiles string for benzene.
-The repo uses open babel to convert this string into either a SDF or PDB format with 3D coordination. These SDF and PDB file then can be used as the input for docking or molecular dynamic simulations.
+The repo uses open babel to convert this string into either a SDF or PDB format with 3D coordinate. These SDF and PDB file then can be used as the input for docking or molecular dynamic simulations.
 
 To start a simple conversion, click the button below to use it without any installation.
 
