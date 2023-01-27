@@ -1,4 +1,3 @@
-# SMILES-chemical-format-to-3D
 
 ## This repo helps to convert SMILES string to a 3D structure such as SDF, PDB. 
 
