@@ -1,9 +1,12 @@
 # SMILES-chemical-format-to-3D
-You might often find yourself in a situation where you get a lot of 2D structures or even just some smiles strings.  How could we translate this important structural information to a 3D structure to focus more on an actual task like QSAR building?
+You might often find yourself in a situation where you get a lot of 2D structures or even just some smiles strings.  This repo helps to convert this important structural information to a 3D structure. 
 
-I will show you how to utilize Obabel to help you fulfil this goal. Scenarios 1 and 2 should be easy to follow. Scenario 3 requires you have prior knowledge of the CHEMBLE database.
+Please click to use directly on Binder 
 
-Theoretically, you can use the notebook on your local laptop or computer, but I write these specifically for use on Google Colab, or on Binder.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/quantaosun/SMILES-chemical-format-to-3D/HEAD?labpath=Obabel_Convert_File_Format_on_Binder.ipynb)
+
+Alternatively if you want to build the env by yourself, you can use the Google Colab version.
+
 
 
 
