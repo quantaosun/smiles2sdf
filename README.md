@@ -11,6 +11,7 @@ For more advanced usage,have a look at Colab version
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/quantaosun/SMILES-chemical-format-to-3D/blob/main/ObabelConvertFileFormat.ipynb)
 
+The engine do the conversion job is open babel, have a look if you want to know more <a href="http://openbabel.org/wiki/Main_Page " target="_blank">Open Babel Introduction</a>
 
 
 
